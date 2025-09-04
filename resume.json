@@ -1,52 +1,38 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "科研经历",
     "projectList": "项目经验",
-    "skillList": "个人技能",
-    "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
+    "skillList": "个人技能"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "胡学斌",
+    "email": "hxbwork2026@163.com",
+    "mobile": "19862125715"
   },
   "educationList": [
     {
+    "edu_time": [
+      "2023.09.01",
+      "2026.06.30"
+    ],
+    "school": "中国石油大学（华东）",
+    "major": "计算机技术",
+    "academic_degree": "硕士"
+    },
+    {
+        
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2018.09.01",
+        "2022.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "齐鲁工业大学（山东省科学院）",
+      "major": "计算机科学与技术",
       "academic_degree": "本科"
-    }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
     }
   ],
   "workExpList": [
@@ -102,10 +88,7 @@
       "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
     }
   ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
-  },
+
   "theme": {
     "color": "#2f5785",
     "tagColor": "#8bc34a"
